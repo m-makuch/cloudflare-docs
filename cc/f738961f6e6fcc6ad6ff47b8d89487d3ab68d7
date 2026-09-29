@@ -1,0 +1,29 @@
+src/content/docs/workers/observability/issues/automations.mdx
+  s_eb8fd1c9327f7c::t_239973ed713966 115,117
+src/content/docs/workers/observability/issues/investigate.mdx
+  s_2a742bc6159b2d::t_b60708977006cb 19-26,50-54,83-87,95-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ccf738961f6e6fcc6ad6ff47b8d89487d3ab68d7",
+  "prompts": {},
+  "sessions": {
+    "s_2a742bc6159b2d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f13b8537dffetBuklJzW2wDBJw",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Maksym Makuch <maksym@cloudflare.com>"
+    },
+    "s_eb8fd1c9327f7c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f180d1eafffe3IS756zf4mFc9J",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Maksym Makuch <maksym@cloudflare.com>"
+    }
+  }
+}
